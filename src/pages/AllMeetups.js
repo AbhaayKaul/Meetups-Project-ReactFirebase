@@ -1,6 +1,6 @@
 import MeetupList from '../components/meetups/MeetupList';
 import { useState, useEffect } from 'react';
-
+import axios from 'axios';
 
 function AllMeetupsPage() {
 
